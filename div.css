@@ -1,0 +1,11 @@
+.center{
+    float: left;
+    margin-left: 300px;
+    margin-right: 70px ;
+}
+.img{
+    float: left;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: white;
+}
